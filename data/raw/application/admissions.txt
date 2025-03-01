@@ -1,0 +1,2587 @@
+  
+ 
+          
+                 
+           
+           
+         
+         
+               
+         
+           
+            
+              
+                
+ 
+          
+ 
+ 
+   
+    
+   
+     
+          
+       
+      
+         
+      
+          
+         
+ 
+  
+ 
+      
+    
+     
+             
+ bu privacy notice : student recruitment & admissions 
+in sections 4 and 5, the main text gives an outline of the processing activity and a symbol to 
+show the legal basis of that processing. the paragraphs marked “more information ” 
+provide further information about how and why the processing is undertaken and a 
+description of the legal basis for it. 
+bu’s data protection officer (“dpo”) has oversight over data protection matters within bu. 
+if you have any questions about this notice, or any queries or comments on the processing 
+described in this notice, you can contact the dpo on dpo@bournemouth.ac.uk , or poole 
+house, bournemouth university, fern barrow, poole bh12 5bb. 
+changes to this notice : we review and update this notice at the start of each academic 
+year and application cycle. if we make any significant changes during an application cycle, 
+we will notify them to you using the email address we use for other communications with you. 
+changes to your data:  please tell us promptly about any changes to the data we hold about 
+you. privacy notice contents 
+1. introduction: 
+a. what is this notice? 
+b. what is data protection? 
+c. using this notice 
+d. understanding the legal basis for processing of your data 
+2. when and how we collect your data 
+3. how we hold your data 
+4. how and why we process your data for bu purposes 
+5. overseas transfers of your personal data 
+6. retention: how long will we keep your data for? 
+7. your rights as a data subject and how to exercise them 
+1. introduction 
+(a) what is this notice? 
+this notice applies to people who: 
+• make enquiries with bu (including through third parties) or attend student recruitment 
+events (both bu and external) with a view to possibly making an application to study at bu; 
+and 
+student recruitment & admissions privacy notice published september 20 24 1 
+  
+ 
+       
+  
+      
+                  
+     
+       
+ 
+        
+       
+     
+         
+      
+               
+          
+          
+     
+     
+      
+           
+     
+ 
+   
+        
+    
+   
+            
+    
+      
+    
+       
+         
+       
+       
+  
+   
+      • apply to study at bu 
+before the point at which they accept an offer of a place at bu. 
+as a result of your engagement with bu, we will hold your “personal data”, i.e. information in a form 
+that identifies you as individual [often referred to as “data” in this notice] . this notice explains how 
+we use and protect your data. 
+in this notice, “bu” "we", "our" and "us" refers to bournemouth university higher education 
+corporation. we have separate privacy notices covering information relating to bu students , bu 
+alumni, bu staff, people participating in bu research projects and people making enquiries or 
+attending general public engagement events at or connected to bu. 
+more information: the purpose of this notice is to enable you to understand the scope of 
+the personal data which bu holds and uses that relates to you personally , and how this data 
+will be handled by us. it covers use of your information within bu and the circumstances in 
+which we will share your data with other organisations. 
+we think it is important that you can understand how and why we use your data. we are 
+also legally required to give you specific information about the processing of your data .  
+for this reason, and because bu is a large organisation which needs to collect and use 
+personal data for a range of purposes, this notice is quite long, and it contains some 
+technical legal language. we have tried to make the notice as clear as possible a nd provide 
+signposting so that you can find the information most relevant to you. see section (c) below 
+for guidance on how to use the notice.  
+(b) what is data protection? 
+personal data is information relating to identifiable living individuals (known as “data subjects”) . use 
+of personal data (including collecting data, sharing data or just holding it in files) is referred to as 
+“data processing”.  to protect your interests and rights , organisations do not have complete 
+freedom in how they use your personal data. they have to comply with d ata protection laws , which 
+apply restrictions on when and how personal data can be processed .  processing of personal data is 
+lawful only if it meets certain requirements or conditions . these are concerned with the purpose of 
+the processing and how it is carried out. 
+more information: our data protection laws are set out in the eu general data protection 
+regulation (called “gdpr”) and the uk data protection act 2018. 
+under these laws, bu is the data controller of the information it collects and processes as 
+described in this notice. this means that it has the core legal responsibility to safeguard the information and ensure it is processed lawfully .  
+in particular bu must: 
+• take steps to ensure that the data it processes is accurate and up to date; 
+student recruitment & admissions privacy notice published september 20 24 
+2 
+  
+ 
+           
+  
+        
+    
+     
+          
+    
+  
+    
+   
+        
+  
+        
+        
+       
+     
+       
+  
+         
+       
+       
+       
+ 
+                
+    
+       
+               
+               
+       
+          
+      
+  
+              
+  
+              
+   • • give you clear information about its processing of your data, in one or more privacy 
+notices like this one ; 
+• only process your data for specific purposes described to you in a privacy notice , 
+and only share your data with third pa rties as provided for in a privacy notice ; 
+• keep your data secure ; and 
+• respond within set timescales to certain enquiries or requests from individuals 
+about the use of their data . 
+information about your data protection rights as a data subject is set out later in section 7 of 
+this n otice. 
+(c) using this notice 
+sections 4 and 5 of this notice identify and explain the data processing and data sharing carried out 
+by bu .  
+in these sections, against each description of a data processing or sharing activity you will 
+automatically see a summary description of the processing and a colour- coded indicator of the legal 
+basis of the processing (these are explained below).  this first level of information will also include any specific processing activities which we particularly need to highlight to you. you can then 
+choose whether to click through to see a more detailed layer of information about the processing 
+and its legal basis. 
+(d)understanding the legal basis for processing of your data 
+bu is using colour coding to provide a quick, easily -accessible indication of the legal basis for 
+processing. this section explains how the colour coding in this notice links to conditions set out in 
+the gdpr: references to articles are to the relevant provisions within the gdpr. the conditions 
+listed here are those which bu is relying on in relation to the processing covered by this notice and 
+may not be a complete list of all available conditions under the data protection legislation. further 
+information about the basis of a specific category of processing can always be obtained by clicking 
+through the links in section 4 of this notice. 
+more information: conditions of processing for any personal data 
+necessary for the performance of a contract between you and bu: this will be either 
+the core contract between us , the bu student a greement, [ relating to any offer of a 
+place to study at bu ] or an additional contract for other services. the terms of the 
+bu student agreement can be found here: https://www.bournemouth.ac.uk/important -information [art 6.1(b)] 
+necessary for compliance with a legal obligation on bu: we will identify the relevant 
+obligation [art 6.1(c)] 
+necessary to protect your vital interests or those of another person, i.e. to prevent or manage significant risks of harm [art 6.1(d)] 
+student recruitment & admissions privacy notice published september 20 24 
+3 
+  
+ 
+                     
+      
+  
+   
+           
+ 
+ 
+          
+       
+ 
+    
+         
+      
+         
+           
+      
+    
+       
+                  
+    
+                       
+   
+              
+       
+   
+   
+   
+        
+  
+        
+          
+   
+    
+   
+   
+  necessary for the performance of a task carried out in the public interest: this would 
+usually be an activity within bu’s core purpose as a statutory higher education 
+corporation, to deliver higher education and carry out research, but might refer to a 
+public interest task pursued by another organisation [art 6.1(e)] 
+consent: this means that you have agreed that we can use your data for this specific purpose. you are able to withdraw your consent at any time. when you are asked 
+for consent, you will also be given details of who to contact to withdraw your consent. 
+necessary for legitimate interests pursued by bu or another organisation, where 
+bu has determined that the processing represents an appropriate balance between 
+its aims and your interests, rights and freedoms as a data subject.  where this 
+applies, we will identify the purpose we are pursuing . [art 6.1(f)] 
+more information: additional conditions of processing for special category data 
+one of these must apply if we are processing any information about your racial or ethnic 
+origin, political opinions, religious or philosophical beliefs, trade union membership, 
+health or disability or your sex life or sexual orientation. these are referred to as “special 
+categories” of data in the data protection legislation. 
+explicit consent: this means that you have explicitly agreed that we can use your personal data for this specific purpose. you are able to withdraw your consent at any 
+time. when you are asked for consent, you will also be given details of who to contact 
+to withdraw your consent. [art 9.2(a)] 
+necessary for the purposes of substantial public interest. where this applies, we will 
+identify the relevant public interest [art 9.2(g)] 
+necessary for research or statistical purposes, where it is considered that that the use 
+of your data will be proportionate to the aims of the research and that your interests 
+as a data subject will be appropriately safeguarded [art 9.2(j)] 
+in addition, we can only process information about any criminal convictions you may have where 
+this is in the substantial public interest and falls within a relevant description of processing set out in schedule 1 of the data protection act 2018. further information about the basis on which we 
+process this information is set out later in this notice. 
+2. when and how we collect your data 
+we collect and hold information provided by you through: 
+• enquiry forms 
+• other web -based or printed forms 
+• email communications 
+• telephone calls 
+• live chat messages 
+student recruitment & admissions privacy notice published september 20 24 4 
+  
+ 
+          
+      
+    
+  
+    
+        
+      
+        
+                
+     
+  
+                
+      
+         
+        
+         
+ 
+  
+    
+ 
+        
+     
+      
+     
+                 
+  
+     
+       
+        
+       
+       
+       
+             
+      
+        
+  • bu event booking forms 
+• bu event evaluation forms; 
+• attendance at bu events; 
+• application forms ; 
+• your response to specific requests from us during our admissions process . 
+we work with trusted third -party partners (such as whatuni and findamasters) to promote our 
+courses. when we do, we ensure appropriate security measures and contractual data processing 
+agreements are in place. it will also be made clear to you at the point of collection what information 
+is being collected and for what purposes. if you are unhappy with how your personal data has been 
+processed by a third- party affiliate of bu, please contact our data protection officer 
+at dpo@bournemouth.ac.uk. 
+we may also obtain information about you in other ways, for example through your attendance at 
+external student recruitment fairs (e.g. ucas) , from any agent or representative acting on your behalf 
+or from people you identify as referees in an application form. in the case of apprenticeships , we may 
+obtain information your employer. where data protection legislation applies to these third parties , 
+they should provide separate privacy information which covers their sharing of your data with bu. 
+further information relating to you is then generated through our responses to your enquiries or 
+applications. 
+3. how we hold your data 
+before you make an application to bu 
+data relating to your interest in or attendance at events and data relating to your enquiries to us and 
+our response is captured through a variety of methods and held within our customer relationship 
+management (crm) system within bu’s it systems , or within spreadsheets or other records kept by 
+our doctoral college in relation to enquiries about postgraduate study. 
+where you give consent to be contacted with further information about bu, its events or services, the 
+contact details and information about your interests which you have provided are also held within our 
+crm system and will be used to send you relevant communications .  
+after you make an application to bu 
+applications to study at bu are held electronically within bu ’s sits student record system. where we 
+provide a portal for applicants to communicate with bu through the admissions process (e.g. the 
+myhub portal), this links to the sits system. the only exceptions to this are applicants for health and 
+social care cpd courses and apprenticeships : these applications are processed through a separate 
+online application system, but if your application is successful some of your information will be 
+transferred to the sits system to create your student record. 
+if you apply to bu through ucas , we will also access your application and process associated 
+information through the ucas secure data portal. 
+student recruitment & admissions privacy notice published september 20 24 5 
+  
+ 
+                         
+           
+           
+ 
+        
+        
+ 
+                 
+                
+      
+  
+        
+   
+ 
+                
+      
+            
+   
+ 
+        
+           
+      
+           
+     
+         
+  
+ 
+       
+       
+         
+     
+       
+       
+       
+    
+ 
+            
+     
+       
+      
+ we also hold some of your data in our crm system and use this to send you any communications 
+which are not part of our core admissions process. 
+4. how and why we process your data for bu purposes 
+this part of the notice is divided into the following sections which deal with different types or 
+purposes of data processing within our recruitment and admissions processes .  
+within each section, the main text gives an outline of the processing activity. for those that wish to have a more detailed understanding of the processing, including its legal basis, you can 
+read the text marked “ more information ”. 
+events 
+• administering your booking & attendance at student recruitment events including our open 
+days. 
+we use data you provide to process your booking and provide information about the event. 
+your data may be transmitted to us through a third -party booking system. sometimes this 
+will include information about your health conditions or disabilities, where these affect 
+arrangements for your attendance at an event 
+more information: the data we process for these purposes is data provided by you. 
+it will include your name, contact details , information about the event you wish to 
+attend and possibly information about the nature of your interest in bu, e.g. the 
+course level and subject(s) you are considering . this data is used by bu staff to 
+process your booking or provide further relevant information about the event. t his 
+may include contacting you (via email, sms, telephone or post) with booking 
+confirmations, event joining instructions or other information about that event. 
+to facilitate efficient booking processes, we use a range of different forms or apps to 
+capture your data and may use external booking systems to issue tickets and 
+administer bookings. where we use external booking systems , your data will be 
+transmitted through these external systems and the companies providing those 
+systems will give you separate privacy information about how they manage and 
+protect your data while transmitting it. this will include information about whether 
+they will transfer your data outside the european economic area in the course of 
+providing their service. 
+necessary for legitimate interests pursued by bu, i.e. running events to increase 
+awareness of bu’s courses and what we do and to share knowledge of interest 
+to the public and enabling your attendance at such events where you have 
+expressed a wish to/interest in doing so. 
+student recruitment & admissions privacy notice published september 20 24 6 
+  
+ 
+            
+        
+  
+      
+           
+      
+        
+               
+   
+ 
+         
+ 
+          
+    
+       
+         
+               
+                
+       
+        
+           
+   
+ 
+    
+ 
+                  
+               
+     
+ 
+          
+      
+ 
+      
+           
+ 
+          
+   
+  
+      
+     
+ 
+ 
+              
+        
+        sometimes we may ask you to let us know of any dietary requirements or preferences 
+to enable us to provide appropriate catering options at an event. similarly, we may 
+ask you whether you have any additional needs with regard to accessing events, and of course we will also respond to any such needs which you notify to us at any point. 
+where your responses relate to health conditions or disabilities you have, thi s means 
+that you will be providing us with special category data which requires additional 
+protection. we will only process this information where you have agreed to provide 
+it to us and for the purposes of facilitating your access to, and safe attendance at, our 
+events. 
+consent: you have agreed to this processing 
+we will hold your data within our systems for a limited period (no longer than five 
+years ) so that there is a record of your booking, and we can respond to any queries 
+about it and manage any issues with event administration . we will deactivate your 
+details within the crm system when we determine that you are unlikely to still be interested in bu events: this will normally be around 18 months to two years after the 
+last event you booked, but in any event, we will deactivate your details no later than 
+five years after the last event attended. different retention periods may apply to data 
+held on the systems of any third -party ticketing providers we use, but we will be 
+working with them to manage data appropriately in accordance with the data 
+protection legislation. 
+• photographing or filming o ur events 
+we often take photographs or film at events that we host, so that we can use them for 
+marketing purposes which may include public display and distribution of the images. you can 
+opt out of your image being recorded and used in this way. 
+more information: if we record images of you at one of our events, these images may be 
+used in one or more of the following ways: 
+o prospectuses and other university promotional materials 
+o as part of an advert or advertisement feature (which includes possible use on 
+outdoor media such as buses and billboards) 
+o on our website, intranet, or the websites of our partners 
+o in promotional videos created by the university 
+o in email com munications 
+o on our social media channels 
+o in non -university publications which our marketing team have approved and 
+authorised. 
+if you are attending one of our events and you do not want your image to be used then you can usually opt out of having your image captured or used . just let the photographer 
+and a member of our staff know. the photographer will then aim not to take any images 
+student recruitment & admissions privacy notice published september 20 24 
+7 
+  
+ 
+            
+          
+      
+     
+    
+ 
+             
+  
+ 
+            
+    
+ 
+         
+ 
+    
+ 
+               
+   
+ 
+        
+              
+    
+        
+       
+ 
+       
+      
+       
+          
+             
+          
+       
+   
+    
+  
+   
+              
+       
+    
+    
+ 
+             
+              
+    
+   of you. you are also advised to try yourself to stay out of any shots or footage being taken, 
+as you may appear in the background in error. if you have notified a member of our staff 
+that you do not want your image to be used as described above (before any materials are 
+sent to print or released into the public domain) , we will not include images of you in any 
+published version of these materials. 
+if bu uses your image as described above and you later decide that you do not wish this to 
+continue, please contact mcdesign@bournemouth.ac.uk . 
+necessary for legitimate interests pursued by bu, i.e., increasing awareness of bu’s 
+courses and what we do and sharing information of interest to the public. 
+• responding to enquiries or requests for information which you make during an event 
+see enquiries section below . 
+• with your agreement, sending you information about other events likely to be relevant or 
+of interest to you 
+the data we process for these purposes is provided by you, usually during a bu event, when 
+you register for a bu event or in the course of making an enquiry to bu. it will include your 
+name, contact details and preferences and information about the nature of events you may 
+be interested in attending. this is used by bu staff to send you information about events. we 
+often use external mailing systems such as dotdigital to manage our mailings of this type. 
+more information: you will have completed a form or answered questions on the phone 
+to confirm your agreement to receiving particular types of information and may have 
+been asked to indicate your method(s) of communication. you may have done this when 
+registering on line for an event or while attending an event , or when making an enquiry 
+to bu . we only send you these communications with your agreement and in line with 
+your stated preferences. any external mailing system used, such as dotdigital , should 
+provide you with separate privacy information about how they handle your data. you can 
+change your preferences or stop these contacts at any time by emailing the unsubscribe 
+contact identified in the event information or by contacting the future students enquiry 
+team. 
+we will hold your contact details and contact preferences information in our systems. 
+during this time , your data is likely also to be processed to carry out general analysis 
+of levels of engagement with our communications, but this analysis will not be used 
+as a basis for individual communications to you. 
+we will carry out periodic review of our mailing lists. we will stop sending you 
+communications when we determine that they are unlikely to still be of use or interest 
+to you (based on the course and year of entry in which you originally expressed an 
+interest). this is normally around 18 months to two years after you contact ed us, but 
+student recruitment & admissions privacy notice published september 20 24 8 
+  
+ 
+                    
+    
+ 
+         
+ 
+              
+                 
+    
+ 
+  
+      
+ 
+         
+               
+           
+      
+   
+  
+ 
+        
+      
+ 
+                 
+       
+          
+     
+     
+       
+ 
+           
+          
+   
+                 
+                
+ 
+ 
+        
+        
+      
+    
+         
+          in any event , we will deactivate your details within the crm system no later than five 
+years after you contact ed us. 
+consent: you have agreed to this processing 
+we do not share our mailing lists with any third parties who would use it to contact 
+you separately . we do use a third party mailing house to send out post on our behalf 
+but they would only contact you on our behalf, not for any other purposes. 
+enquiries 
+• responding to your enquiry about study at bu 
+the data we process for these purposes is provided by you when you make your enquiry , 
+whether you make your enquiry in writing, by phone , by live chat/chat bot, in person (e.g. at 
+a bu event) or through the unibuddy platform . it will include your name and contact details 
+and information about your enquiry/the nature of your interest in bu. this data is used by bu 
+staff to respond to your enquiry. it is also stored in our customer relationship management 
+(crm) system and used for analysis, as described in the next section of this notice . 
+more information: this will include sending you relevant information about bu by the 
+most appropriate method of communication (email, phone or text).   
+we will keep details of you and your enquiry for a maximum of five years . this is to 
+help us respond more effectively to any further enquiries you make of bu in the 
+future, and to carry out analysis as described below. where you later make an 
+application to study at bu, within our records we will link this additional information 
+and the outcome of your application to your original enquiry details so that we can 
+analyse the links between enquiries, applications and successful applications. 
+necessary for legitimate interests pursued by bu, i.e. providing information to 
+increase understanding of bu’s courses and services amongst potential applicants to 
+bu. 
+• with your agreement, sending you further information likely to be relevant or of interest to 
+you 
+the data we process for these purposes is provided by you. it will include your name, contact 
+details and preferences, and the content of your original enquiry to bu. this is used by bu 
+staff to send you information which we think will be of interest to you based on the nature of 
+your original enquiry. this would include information about courses and application 
+processes, events and other bu services or activities. we often use external mailing systems 
+such as dotdigital to manage our mailings of this type. you will be able to make some choices 
+student recruitment & admissions privacy notice published september 20 24 9 
+  
+ 
+             
+   
+  
+       
+    
+         
+              
+          
+        
+   
+      
+  
+ 
+             
+              
+    
+              
+              
+     
+ 
+         
+ 
+                   
+    
+      
+      
+         
+      
+    
+     
+ 
+       
+             
+        
+      
+     
+      
+           
+  
+   
+            
+ about the forms of communication we can use for these communications (if any), i.e. email, 
+phone or sms. 
+more information: you will have completed a form or answered questions on the 
+phone to confirm your agreement to receiving particular types of information, and 
+you will have been asked to indicate which method(s) of communication you accept.   
+we only send you these communications with your agreement and in line with your 
+stated preferences. any external mailing system used, such as dotdigital , should 
+provide you with separate privacy information about how they handle your data. you can change your preferences or stop th ese contacts at any time by emailing the 
+unsubscribe contact identified in the event information or by contacting the future 
+students team. 
+we will carry out periodic review of our mailing lists. we will stop sending you 
+communications when we determine that they are unlikely to still be of use or interest 
+to you (based on the course and year of entry in which you originally expressed an 
+interest). this is normally around 18 months to two years after you contact ed us, but 
+in any event, we will deactivate your details within the crm system no later than five 
+years after you contact ed us. 
+consent: you have agreed to this processing 
+we do not share our mailing lists with any third parties who would use it to contact you separately. 
+• contact through unibuddy 
+if you are using unibuddy to chat with our student ambassadors or you have joined unibuddy 
+communities , you will have been given links to separate privacy notices explaining how your 
+information will be processed through the unibuddy platform and shared with bu. once your 
+information is transferred into bu’s systems, it is processed as described above. this includes 
+sending you further information about bu by email, if you ticked the relevant consent box within 
+the unibuddy platform. 
+analysis of your contact with bu 
+we carry out analysis of enquiries to bu and attendance at bu events , including external 
+recruitment events . this includes making links between enquiries/attendance at events and 
+any subsequent applications to study at bu made by the same individuals . this involves 
+carrying out statistical analysis of the information you provide when making enquiries or 
+attending events and link ing application information to information in your previous enquiries 
+or about attendance at events. we do this to help us improve the quality and relevance of 
+our communications with enquirers, potential applicants and applicants, and to help increase 
+our engagement with particular groups as part of o ur work on widening participation in higher 
+education at bu. sometimes we use third party specialists to do this type of work for us. 
+student recruitment & admissions privacy notice published september 20 24 10 
+  
+ 
+                     
+          
+     
+        
+     
+    
+           
+        
+    
+ 
+ 
+           
+         
+                
+   
+           
+      
+      
+  
+ 
+          
+     
+             
+   
+ 
+              
+  
+      
+ 
+ 
+       
+ 
+            
+    
+       
+     
+     
+      
+ 
+ 
+        
+        
+        more information: we carry out analysis of the nature of enquiries to bu and how 
+these develop into further engagements with or application s to bu. we also carry out 
+analysis of attendance at our events and events we are present and collect data at .  
+for example, we may analyse the demographic profile of attendees by reference to 
+postcode , gender or age -range information you have given us. this is to help us 
+ensure that our events and responses to enquiries are appropriately accessible, that 
+we send appropriate communications about events and to help us increase participation of particular groups. it also assists the on -going development of bu, its 
+courses and services and its communications and our understanding of the people likely to be interested in coming to bu . 
+when we carry out this analysis, we separate the relevant data fields (e.g. postcode) 
+from your name, and then carry out statistical analysis . this work is not concerned 
+with you as individuals: we do not use the information to identify you as an individual 
+or take any decisions about you. the analysis is held separately and not linked back to 
+you as an individual. sometimes we will ask a third party organisation to carry out 
+this analysis for us, but we do not share named information with them . they will be 
+required to keep the information secure, use it only for the purposes of statistical 
+analysis for us and delete it when this work is completed . 
+necessary for legitimate interests pursued by bu, i.e. running /attending events 
+to increase awareness of bu’s courses and what we do and to share knowledge 
+of interest to the public, widening participation in such events and fulfilling bu’s 
+duties under the equality act 2010. 
+necessary for the performance of a task carried out in the public interest: bu’s core purpose as a statutory higher education corporation, to deliver higher 
+education and carry out research, compliance with guidance and requirements 
+from our regulator the office for students with regard to widening access to higher education 
+use of data for digital marketing 
+• use of applicants’ email addresses in connection with targeted digital advertising 
+we may pass email addresses of applicants to our third party data processor which provides 
+advertising and digital media services to bu. they use the email addresses along with 
+information and tools on social media platforms to identify other people (who have not 
+already applied to bu) who may be suitable recipients of digital advertisements relating to 
+bu and then to deliver adverts to them on that social media platform. t his is called finding 
+“lookalike audiences” and is a common approach within digital advertising.  it is based on 
+identifying individuals w ho share certain interests, connections or characteristics with 
+people who have already applied to us, using information in their social media profiles. we 
+do not use this data to target advertising at the owners of the email addresses, i.e. people 
+who have already applied to bu, unless we have collected consent to do so, nor will our data 
+student recruitment & admissions privacy notice published september 20 24 11 
+  
+ 
+         
+      
+      
+  
+           
+        
+  
+ 
+ 
+ 
+         
+      
+  
+  
+ 
+     
+    
+               
+ 
+      
+   
+    
+    
+   
+   
+   
+ 
+       
+   
+     
+       
+     
+   
+ 
+      
+       
+      
+ processors use it to contact you in any way . individuals should only see this advertising in 
+accordance with the social media platform’s privacy/website & cookies policies and if they have agreed to this within their preferences/privacy settings for the platform. 
+more information 
+necessary for legitimate interests pursued by bu, i.e. providing information to increase understanding of bu’s courses and services amongst potential applicants to 
+bu. identifying the individuals most likely to find this information useful. 
+• why am i seeing digital adverts from bu? 
+there are several different routes through which you may end up seeing targeted digital 
+advertising of bu.  you may have been identified as an appropriate recipient of our adverts 
+through identification of a “lookalike audience” as described in the previous section, or 
+based on on line behaviours using cookies (which record visits to or interactions with 
+particular webpages) or programmatic/smart display advertising. this may include 
+advertising generated using cookies/pixels created when you visited the bu website. 
+we use targeted digital advertising because we believe it is a good method for providing 
+individuals with information of genuine interest and use to them and widening the field of 
+applicants to bu, while avoiding a situation where other individuals are giv en information of 
+no relevance or interest to them. 
+these methods of targeting advertising do not involve processing your personal data , i.e. 
+any data that definitively identifies you as an identifiable individual. you should only see this 
+sort of advertising in accordance with: 
+o the cookies policy on any websites recording cookies/pixels for use in targeting advertising and any relevant preferences you have set on those websites; and 
+o the privacy policies of the site or browser which displays the adverts and any 
+relevant preferences you have set on those sites/browsers . 
+the cookies policy for bu’s website can be viewed here . this includes information about 
+how to let us know of any concerns about management of your cookies. 
+applications & the admissions process 
+• processing of a ll applications 
+we process the data provided in your application and further information provided by your 
+referees for the purposes of evaluating your application to study at bu. the data will be managed by bu’s admissions team s and will also be accessed by relevant individuals in bu’s 
+faculties if this is necessary to determine whether we are able to make you an offer to study 
+student recruitment & admissions privacy notice published september 20 24 
+12 
+  
+ 
+               
+           
+     
+               
+  
+        
+  
+ 
+       
+        
+          
+        
+ 
+   
+       
+  
+       
+   
+           
+        
+      
+     
+ 
+     
+      
+ 
+     
+ 
+             
+         
+           
+ 
+  
+              
+  
+    
+   
+ • 
+• at bu. in the case of apprenticeships, this will be handled by faculty directly and the central 
+apprenticeships team. whereas, cpd courses are managed directly by the faculty. 
+if you provide us with the details of a referee within or in connection with your application, 
+we will process the personal data of those referees in order to contact them to request 
+references or any further information required in relation to references already provided. 
+we will not separatel y notify you before we contact your referees. we will process the 
+information provided by referees along with other information in your application. 
+in the postgraduate research admissions process, we may share your application data with 
+external individuals (in academic or other roles) for the purposes of assessing an application 
+for use of an external supervisor, or for studentships with funding from ext ernal 
+organisations such as nhs or private sector companies . we will not separately notify you 
+before we share your data in this way. we will process this information along with other information in your application. 
+if we have doubts about the validity of any qualifications you have listed in your application 
+or questions about the content or level of your qualifications , we will usually share 
+information in your application with third parties for the purposes of understanding and 
+verifying your qualifications. this may include the organisation identified as having awarded 
+a qualification , any external agency which provides a qualification checking service or uk 
+naric (the uk national recognition information centre), which is contracted by the uk 
+department for education to provide an official source of information on international education and training systems, and international qualifications and skills. 
+more information: the information in your application form and references will be 
+processed as required to apply our admissions policies and processes [https://www1.bournemouth.ac.uk/important -information ]. within bu w e will use 
+it for the purposes of applying those policies and procedures. applications received 
+(or the information provided within applications) is stored in our sits record system 
+or in a separate system for health and social care cpd courses and apprenticeships .  
+if you come to study at bu then information originally provided in your application 
+may later also be processed as described in the student privacy notice . 
+necessary for the legitimate interest of processing your application 
+necessary for performance of bu’s public task as a higher education 
+corporation, to apply our academic standards for admission with a view to 
+providing you with higher education 
+necessary in order to take steps at your request prior to entering into a 
+contract, i.e. in order to apply our admissions process with a view to you 
+entering into our student agreement 
+• communications with applicants 
+student recruitment & admissions privacy notice published september 20 24 
+13 
+  
+ 
+                    
+ 
+   
+ 
+           
+    
+ 
+ 
+               
+      
+             
+                
+  
+ 
+ 
+    
+ 
+   
+  
+ 
+        
+   
+      
+      
+              
+  
+     
+ 
+            
+   
+   
+       
+     
+          
+  
+       
+  
+      
+    • 
+• when you have made an application to study at bu we will use the contact details 
+provided on your application to send you information related to your application and 
+your potential future study at bu . 
+our admissions team will contact you as necessary for the conduct of the admissions process. in the case of apprenticeships and cpd this may be the faculty or the central 
+apprenticeships team. 
+as well as contacting you as part of the admissions process, we also like to keep in touch 
+by sending you other information, e.g. about the course you’ve applied for or events which may be interesting or helpful to you. the content of these email communica tions 
+will be relevant to you. however you can choose to opt out of receiving these additional communications. 
+more information: 
+the communications from our admissions team /faculty/apprenticeships team will 
+include information about the progress of your application or steps you need to take 
+in relation to your application (e.g. providing more information or attending an 
+interview).  they also include communication of our admissions decisions i.e. 
+whether we can offer you a place and the type of offer we are making. these 
+communications will usually be sent by email, but on occasion we may need to telephone you or send you an sms message. you cannot opt out of these 
+communications as we need to be able to contact you about your application. 
+necessary in order to take steps at your request prior to entering into a 
+contract, i.e. in order to apply our admissions process with a view to you 
+entering into our student agreement and enable you to access other 
+services 
+necessary for bu’s core public task as a university, operating an admissions 
+process to ensure that places on higher education courses are offered to the 
+most appropriate candidates 
+the additional communications we send you will include details of relevant bu events such as open days and information about the course or faculty to which 
+you’ve applied. these communications will be in the form of emails and sms from 
+our marketing & communication department .  you can opt out of receiving these 
+emails by clicking the “unsubscribe” button on any email you receive from the 
+address ezines@newsletters.bournemouth.ac.uk or by emailing our future students 
+enquiry team futurestudents@bournemouth.ac.uk . opting out of these additional 
+communications will not affect our handling of your application in any way. 
+student recruitment & admissions privacy notice published september 20 24 
+14 
+  
+ 
+               
+       
+        
+   
+ 
+   
+ 
+           
+        
+ 
+            
+ 
+     
+ 
+              
+    
+    
+         
+ 
+ 
+       
+  
+  
+            
+  
+     
+ 
+         
+      
+           
+          
+     
+ 
+     
+         
+           
+ 
+      
+   
+             
+  necessary for the legitimate interest of processing your application, 
+ensuring you have relevant information about your potential future study at 
+bu and ensuring you will be able to access relevant associated services. 
+consent: you have agreed to this processing (if you do not opt out). 
+• criminal records information 
+at the application stage we do not ask for or process within bu any information about 
+matters on your criminal record. 
+as part of the ucas process, applicants to regulated professions courses (i.e. courses 
+intended to lead to registration with a regulated health or social care profession) are 
+asked by ucas to complete a relevant criminal matters declaration on the ucas 
+application form. however bu does not consider or take any account of this declaration 
+within its admissions process unless and until bu has offered a place to the applicant 
+and you have decided to accept the offer .  at this point we ask offer -holders to decl are 
+certain criminal matters/convictions to bu: what you are asked to declare will depend on the course on which you’ve been offered a place. please see below for more 
+information. 
+• processing data on educational disadvantage, health/disability, ethnicity, religion and sexual orientation 
+your data processed within our admissions process at bu includes a ny information 
+which you provide in your application or otherwise within these categories: o indicators of potential educational disadvantage and other widening participation 
+factors, including whether you are a care -leaver 
+under our accessbu scheme, when assessing applications for undergraduate courses 
+(including undergraduate apprenticeships) we take into account a number of factors 
+which may have affected applicants’ access to education or previous academic performance. we make contextual offers to applicants who fall into one or more of the 
+automatically -assessed categories listed on the accessbu website (see t he “eligibility” 
+section at www.bournemouth.ac.uk/accessbu ) or who submit an accessbu application 
+and supporting evidence to demonstrate how their personal circumstances have had a 
+negative impact on their post -16 studies or performance at gcse. this is in line with our 
+admissions policy and our access & partici pation plan (as approved by ofs). if you are a 
+care -leaver, if you are offered a place at bu this information will also be shared with our 
+student services department so that they can determine what support bu may be able 
+to provide with your studies and living arrangements. 
+necessary for compliance with a legal obligation on bu: compliance with office for 
+student regulatory requirements to implement an approved access & participation 
+student recruitment & admissions privacy notice published september 20 24 
+15 
+  
+ 
+        
+   
+              
+ 
+   
+  
+             
+    
+ 
+       
+        
+  
+         
+      
+ 
+    
+  
+     
+  
+    
+             
+        
+     
+      
+   
+     
+  
+        
+ 
+    
+ 
+       
+   
+      
+       
+       
+ 
+          
+ 
+            
+   
+ 
+ plan, to increase access to higher education for currently under -represented 
+categories of potential student 
+necessary for the performance of bu’s core public tasks: ensuring fair access to our 
+higher education provision and widening participation in higher education, in 
+accordance with our access and participation plan approved by the office for 
+students 
+o health conditions, disabilities and needs for additional support, if this information is 
+provided to us in your application or during the admissions process 
+the ucas application form and the bu application form give you an opportunity to 
+provide information about any disability you may have . you (or your referees) may 
+also choose to tell us about any health condition or other support need you may 
+have if you have questions about how this may affect study at bu or the support we 
+would be able to offer you , or this has affected your previous study and you would 
+like us to take this into account in the admissions process as described above .  we 
+use this information for statistical purposes , to enable us to signpost applicants to 
+sources of support and for admissions purposes as a factor indicating educational 
+disadvantage, as described above and in our admissions policy 3b . otherwise , this 
+information is not considered as part of the admissions process and does not affect 
+bu’s decision on whether to offer you a place, except in the exceptional situation 
+where we determine that a disability, health condition or other support need means 
+that it will not be possible you to meet the mandatory requirements of the course 
+for which you have applied, even if you meet the academic criteria for admission 
+and even if bu makes all reasonable adjustments to meet your needs. further 
+details about this are provided below, where we describe the information , we ask 
+you to provide w hen you accept an offer from bu. 
+consent: you have agreed to this processing. 
+o ethnic origin, sexual orientation, gender identity and religious beliefs 
+the ucas application form and the bu application form collects ethnicity data from 
+all applicants . the ucas application form also collects data about your sexual 
+orientation, gender identity and religious belief where you agree to provide it. this 
+information is special category data, and it is only provided to us by ucas after the 
+completion of the application cycle. it is processed only for the purposes of equal 
+opportunities monitoring and analysis, to meet our duties under the equality act 
+2010. bu does not use it to take any decision about you. 
+necessary for compliance with our legal obligations under the equality act 2010, in particular the public sector equality duty and our ofs conditions of 
+registration 
+student recruitment & admissions privacy notice published september 20 24 
+16 
+  
+ 
+                 
+      
+    
+  
+ 
+    
+ 
+      
+ 
+            
+                 
+       
+      
+          
+    
+              
+  
+     
+   
+     
+  
+     
+              
+  
+   
+   
+ 
+        
+ 
+           
+            
+      
+          
+         
+  
+ 
+  
+    
+ 
+         
+                • 
+• 
+• necessary for the purposes of substantial public interest, i.e. identifying or 
+keeping under review the existence or absence of equality of opportunity or 
+treatment as provided for in paragraph 8 of schedule 1 to the data protection 
+act 2018 
+• applications through ucas 
+where you apply to us through the universities and colleges admissions service 
+[ucas] , ucas share with us your application and further information such as your 
+examination results. our response to your application will be shared by us with ucas, who will communicate our decision to you. we are able to access your application and 
+share information with ucas through a secure portal system. once we receive your 
+application through ucas, we will ask you to create an account within the bu myhub 
+portal, which will use individual log- in details.  the myhub system is part of the sits 
+records system which bu also uses to maintain student records. this enables you to 
+monitor the progress of the admissions process and we will use the myhub portal to 
+send you messages about your application. 
+more information: further information about processing of data within the ucas 
+process is provided in the ucas privacy notices and the ucas applicant terms, which are available on the ucas website https://www.ucas.com/corporate/about -
+us/privacy- policies -and- declarations . these should have been brought to your 
+attention when you were preparing and submitting your ucas application. 
+necessary in order to take steps at your request prior to entering into a contract, i.e. in order to apply our admissions process with a view to you 
+receiving an offer and entering into our student agreement 
+• direct applications to bu 
+where you apply directly through the bu website, you will be directed to complete an 
+online application form.  at this point you will be asked to create an account within the 
+bu myhub system which will use individual log -in details.  the myhub system is part of 
+the sits records system which bu also uses to maintain student records. creating a 
+myhub account at the application stage enables you to save drafts and work on the form 
+over time and submit it online. once you have submitted your application, you can use 
+the myhub portal to monitor the progress of the admissions process and we wil l use it 
+to send you messages about your application. 
+if you agree, we may also use the information in your myhub account to contact you to 
+offer support with completing an application and provide you with further information 
+more information: when you create a myhub account for your application we will ask 
+whether you agree to us reviewing the content of your account and contacting you. the 
+student recruitment & admissions privacy notice published september 20 24 
+17 
+  
+ 
+           
+ 
+              
+      
+  
+   
+ 
+       
+ 
+    
+ 
+   
+     
+  
+    
+     
+     
+ 
+         
+ 
+ 
+         
+      
+     
+     
+    
+  
+          
+     
+     
+ 
+      
+    
+     
+         
+ 
+       
+          
+    
+         
+    • purpose of the contact would be to offer support with your draft application and provide 
+further information which might be relevant in association with your application.  we 
+will only contact you in this way if you agree to it. 
+necessary in order to take steps at your request prior to entering into a 
+contract, i.e. in order to apply our admissions process with a view to you 
+receiving an offer and entering into our student agreement 
+consent: you have agreed to this processing 
+• specific categories of application: clearing, external application routes , partner bodies 
+o applications through clearing 
+if you apply to bu through clearing and have not submitted a ucas application in 
+the relevant application round, we will ask you to complete a record of prior 
+acceptance ( rpa) form.  the conten t of this is determined by ucas and includes 
+contact details, educational history and relevant criminal conviction information. 
+the data is processed by ucas and bu in order to manag e the application process 
+and determine whether bu will offer you a place. 
+o applications made through other organisations (including applications for llm 
+legal practice ) 
+applications for some courses are received via other organisations who provide a 
+gateway for particular applicants or to access particular courses. this includes 
+applications for the llm in legal practice, applications for the pg dip ma social 
+work (children & families) and health visiting/school nursing programmes which 
+are made through the department for education and applicants through the common app process established in the us a.  applications received in this way will 
+usually need to be entered manually into bu’s sits/m yhub system and processed as 
+set out above. you should receive separate privacy information from any relevant 
+external organisation about the processing of your data within their system s. 
+o applications to bu partner bodies 
+wiltshire college & university centre operates under a franchise partnership 
+arrangement with bu. it applies bu admissions criteria and the bu admissions 
+policies. bu and wiltshire college & university centre will therefore share 
+information within applications for study at wiltshire college & university centre as 
+necessary to operate the admissions process, and this may include bu accessing your ucas application through the ucas data portal. bu processes this data on the 
+same basis as any other application, as set out above. 
+applications to other bu partner organisations are processed by the partners and bu 
+does not have access to applicant personal data. 
+student recruitment & admissions privacy notice published september 20 24 
+18 
+  
+ 
+         
+        
+   
+ 
+ 
+       
+ 
+    
+    
+             
+            
+ 
+    
+ 
+ 
+ 
+       
+     
+ 
+  
+ 
+              
+ 
+ 
+    
+ 
+        
+      
+   
+        
+  
+        
+   
+    
+      
+ 
+          
+     more information 
+the legal basis for processing these categories of processing is the same as 
+the basis stated above for processing the same types of data in rel ation to 
+applications generally 
+international applicants 
+• communications with agents acting on behalf of enquirers and applicants 
+if you have instructed an agent to represent you in making enquiries and/or an application 
+to bu, with your agreement we will then communicate with your agent and share your 
+personal data with them. 
+more information: we will share your information with an agent only: 
+o where we have a representation agreement with the agent; and 
+o the agent has obtained your clear consent to this sharing of your 
+information. this will usually mean that you have signed a standard consent 
+form issued by bu to the agent. 
+the information we share will include responses to enquiries and any offers we 
+make to you. 
+consent: you have agreed to this processing 
+necessary in order to take steps at your request prior to entering into a 
+contract with us 
+• communications with applicants by bu in-country representatives 
+applicants based in china, india, nigeria, pakistan and vietnam may be contacted by bu 
+representatives based in those countries. these are consultants working under contract 
+with bu, who offer support to applicants in progressing their application and accessing 
+relevant information from bu. for this purpose, bu provides the consultants with secure 
+access to applicants’ data (name, course applied for, contact details , application/offer status 
+(including updates on progress through the admissions process) and the name of any agent 
+acting on the applicant’s behalf). this information will be held securely by these consultants 
+and only used by them for the purposes of providing support to applicants as described 
+above. if you do not want to be contacted by our country representative, or want contact 
+with them to stop, just let us know – either by telling the in-country representative or by 
+emailing iat@bournemouth.ac.uk . 
+necessary for legitimate interests pursued by bu or another organisation, i.e. 
+supporting applicants who may find it more difficult to understand or manage the 
+student recruitment & admissions privacy notice published september 20 24 19 
+  
+ 
+          
+    
+  
+ 
+      
+  
+ 
+    
+     
+               
+      
+     
+ 
+           
+     
+   
+ 
+  
+   
+       
+ 
+ 
+  
+ 
+ 
+    
+ 
+ 
+       
+      
+        
+      
+   
+              
+ 
+            
+ 
+     
+          
+ 
+  
+ • admissions process and increase the chances of applicants taking up any offer of a place from bu 
+consent: you have agreed to this processing 
+• communications with enquirers and applicants based outside the european economic area 
+if you and/or an agent representing you are based outside the uk while communicating with 
+us (whether through making an enquiry or an application to bu), then it will obviously be 
+necessary for us to send your personal information back outside the uk in order to respond. 
+this information will also be sent outside the uk for use by our in-country representatives as 
+described above, unless you tell us that you do not wish to be contacted by them. 
+qs enrolment solutions (qses) will be used to process some post graduate taught (pgt) 
+applications from international applicants to offer level. processing includes marketing, 
+communications and analysis of data to improve our s ervices. 
+more information: 
+necessary for the implementation of pre -contractual measures taken at the 
+data subject’s request consent: you have agreed to this processing 
+• sharing your data with kaplan in connection with bournemouth university international 
+college (buintcol) 
+this applies if we either offer you a place at bu conditional on completion of a pre -sessional 
+english course, or if we reject your offer but feel that you may benefit from a preparatory 
+course before making further similar applications. with your agreement we will share some information about you with kaplan an official contracted party of bu so that they can 
+contact you by email with information about pre -sessional or preparatory courses relevant 
+to you. kaplan operates buintcol , which offers pathways into further study at bu. 
+more information: we would share your name, email address and limited 
+information about your application to bu.  you will be asked if you consent to this 
+sharing when you complete your application. if you don’t consent at that stage we 
+will ask you again if we send you a re levant offer or rejection decision. 
+consent: you have agreed to this processing . 
+student recruitment & admissions privacy notice published september 20 24 
+20 
+  
+ 
+           
+ 
+      
+     
+  
+ 
+ 
+     
+             
+  
+ 
+      
+ 
+      
+  
+     
+      
+        
+ 
+ 
+ 
+      
+             
+     
+         
+ 
+  
+  
+          
+  
+ 
+         
+ 
+ 
+           
+              
+    
+        
+         
+       
+ 
+           
+             • immigration and visa applications 
+if you require a student visa or in the case apprenticeships the ‘right to work’ in order to 
+study in the uk , we will need to process the data in your application, and collect further 
+information from you, for purposes relating to immigration and visa applications.  
+in the case of apprenticeships, it might be necessary to use a share code provided by you to 
+verify your right to work status using the uk government’s right to work website. 
+alternatively, you might be asked to provide us with a copy of your british resid ency permit 
+card, which we would retain. 
+for students that require a student visa, we will need to review the information in your 
+application to identify whether you are likely to obtain a visa: this may affect our decision on 
+whether to make you an offer .  later (if you accept an offer from bu) we will process your 
+information to issue the confirmation of acceptance of studies (cas) or any equivalent 
+document that you will need in order to apply for a student route visa and to comply with 
+our legal obligations as a student visa sponsor. this may include sharing your data with uk 
+visas and immigration (part of the home office within the uk government). 
+if you are from the eu and eligible for eu settled status (meaning you will not require a visa 
+to study in the uk), before enrolling at bournemouth university, you will need to provide us 
+with a copy of your passport and evidence that you have either obtai ned or applied for eu 
+settled status from the uk government. additionally, if you do not need a student route 
+visa and plan to study at bournemouth university under a different immigration category, 
+you will need to provide us with a copy of your passport and evidence of your valid visa or 
+immigration status to demonstrate your eligibility to study in the uk. however, no further 
+information for immigration purposes will be required during the admissions process. 
+more information: prior to determining applications, we will review them in order 
+to identify any applicants who will require a visa to study in the uk and who we 
+consider would not meet the requirements for a student visa (previously known as a 
+tier 4 visa). where this is the case, this is likely to result in bu refusing the 
+application .  
+at this stage we also identify any applicants who appear to be unable to provide all 
+of the documentation we usually use to issue a cas. if you are one of the small 
+number of people for whom this is relevant, with your agreement we will ask the 
+home office to provide us with your immigration history: as required by the home office, we will notify you before we contact them for this purpose and ask whether 
+you consent to us receiving this informatio n. 
+once you have received an offer from bu, you have accepted the offer and you have 
+met any other conditions on your offer (i.e. your offer status is “unconditional 
+student recruitment & admissions privacy notice published september 20 24 
+21 
+  
+ 
+               
+ 
+       
+       
+   
+      
+    
+    
+     
+                 
+ 
+        
+     
+      
+     
+  
+  
+ 
+     
+       
+      
+      
+    
+ 
+             
+   
+  
+ 
+  
+ 
+ 
+    
+           
+  
+  
+           
+   
+          
+     • firm”), we will process your information in order to issue a cas or equivalent 
+document. in the case of postgraduate students, you will also be required to pay a 
+fee deposit before we issue a cas.  at the moment we can only issue a cas a 
+maximum of six mo nths before the date on which your studies are due to 
+commence. to issue a cas we are required to obtain a copy of your passport and to 
+review documentation relating to previous visas you have obtained to study in the 
+uk, your previous qualifications and any cas documents you previously obtained 
+from a university or other education provide r in the uk. w e may also request 
+additional documents associated with your visa application if we deem it necessary to assess the likelihood of a successful visa application. these enable us to assess 
+whether you are likely to meet the requirements for issue of a student visa. we are 
+legally required to retain copies of some of this documentation, including your 
+passport, for the length of your study at bu. w e are required to store this for uk 
+visas and immigration (ukvi) purposes for a period of 1 year aft er graduation or 
+until a compliance officer from the ukvi has assessed the documents whichever is sooner. in the case of apprenticeships we have to retain evidence of funding 
+eligibility (including r ight to work) for 6 years from financial year end after course 
+completion, as per guidance for training providers . 
+as at the earlier stage, i f you are not able to provide all of the documentation we 
+need to make this assessment, with your agreement we will ask the home office to provide us with your immigration history: as required by the home office, we will 
+notify you before we contact them for this purpose and ask whether you consent to 
+us receiving this information. 
+necessary for compliance with a legal obligation on bu: our obligations as a student visa sponsor/licence holder under the immigration legislation and 
+immigration law requirements with respect to holders of eu settled status 
+consent: you have agreed to this processing 
+if you are offered a place at bu 
+• communications from bu 
+after we have offered you a place at bu, we will continue to use the contact details provided 
+on your application to send you information related to your offer and your potential future 
+study at bu. 
+our admissions team will contact you as necessary for the conduct of the admissions 
+process. 
+we also like to keep in touch with our offer -holders. we want to send you information, e. g. 
+about the course you’ve applied for or events which may be interesting or helpful to you , 
+student recruitment & admissions privacy notice published september 20 24 22 
+  
+ 
+         
+             
+   
+    
+      
+  
+    
+ 
+              
+     
+              
+  
+      
+ 
+            
+   
+   
+     
+  
+        
+        
+        
+           
+      
+    
+    
+           
+       
+   
+   
+         
+       
+        
+ 
+ 
+  
+ 
+                   
+ 
+ • remind you about key dates and offer support through the next stages of the admissions process. however you can choose to opt out of receiving these communications which are 
+not directly related to your offer and the admissions process. 
+more information: the communications from our admissions team will include information about the admissions process and the status of your offer and communications about any 
+steps you need to take in relation to your offer (e.g. submitting information or 
+evidence ).  these communications will usually be sent by email, but on occasion we 
+may need to telephone you or send you an sms message. you cannot opt out of 
+these communications as we need to be able to contact you about your offer. 
+necessary in order to take steps at your request prior to entering into a 
+contract, i.e. in order to apply our admissions process with a view to you entering into our student agreement and enable you to access other 
+services 
+necessary for bu’s core public task as a university, operating an admissions 
+process to ensure that places on higher education courses are offered to the most appropriate candidates 
+the additional communications we send you will include information about relevant 
+events, messages to support you through the admissions process and information 
+about steps you will need to take to prepare for student life and life at bu. email is 
+our main method of sending these communications , but we may also contact you by 
+phone, sms , or post. you can decide to opt out of any one or more of these 
+methods of communication by following links which will be provided with your offer 
+letter, clicking the “unsubscribe” button on any email you receive from the address 
+ezines@newsletters.bournemouth.ac.uk or by emailing our future students enquiry 
+team futurestudents@bournemouth.ac.uk . however, opting out of emails may 
+mean that you miss out useful/important information: if you decide to opt out, we 
+suggest that you check our website regularly for relevant information. opting out of 
+these additional communications will not affect our communications about your offer. 
+necessary for the legitimate interest of processing your application, 
+ensuring you have relevant information about your potential future study at bu and ensuring you will be able to access relevant associated services. 
+consent: you have agreed to this processing (if you do not opt out). 
+• other processing of your information: 
+o we will share data about the offer with ucas and with any agent representing you 
+student recruitment & admissions privacy notice published september 20 24 23 
+  
+ 
+         
+ 
+   
+    
+       
+ 
+      
+    
+      
+     
+     
+               
+        
+  
+    
+      
+    
+ 
+              
+   
+        
+ 
+ 
+            
+  
+     
+          
+  
+  
+   
+ 
+   
+ 
+         
+    
+ 
+     
+       
+  
+      
+      o if your offer is conditional on completion of a pre -sessional english programme 
+(psep), with your agreement we will share your name, contact details and 
+information about our offer to you with our partner organisation kaplan so that they 
+can contact you with information about the psep programmes available at the 
+bournemouth university international college which is run by kaplan (see above). 
+o our admissions policy recommends that if you have or may have needs for 
+additional support with your learning or require other adjustments to enable you to 
+access your course and associated assessments , then if we make you an offer y ou 
+should directly contact our additional learning support (als) team to discuss any 
+specific support needs or potential needs and the support that will be available 
+within bu. during the process of registering with the als service you will be given 
+detail s on the way in which w e will process your information. we will only process 
+the data about your disability and support needs if you decide to give us the 
+information and consent to this processing.  the als team is the appropriate first 
+point of contact for discussing all support and adjustment needs, even if these are not learning support needs as such (e.g. need for physical/premises adjustments). 
+o we will process data in applications to identify applicants who have received an 
+offer who have relevant music or sports qualifications, so that we can contact them 
+with information about bu music and sports scholarships (this does not apply to cpd 
+courses or apprenticeships) .  
+o we will process information for immigration/visa purposes as described above. 
+more information: 
+the legal basis of this processing is: 
+necessary for compliance with a legal obligation on bu: our 
+obligations as a student sponsor/licence holder under the 
+immigration legislation and immigration law requirements with 
+respect to holders of eu settled status 
+consent: you have agreed to this processing 
+necessary for the legitimate interests of administering your offer 
+and enabling you to access the course and associated support at bu. 
+when you decide to accept an offer from bu 
+this section explains the way in which we will communicate with you once you have accepted an offer from bu. 
+in addition, when we have offered you a place to study at bu and you decide that you want to 
+accept the offer, we will need to process some further information about you before your place at 
+student recruitment & admissions privacy notice published september 20 24 
+24 
+  
+ 
+                 
+ 
+       
+      
+     
+         
+                   
+                  
+     
+     
+          
+           
+  
+  
+           
+   
+                
+       
+   
+ 
+      
+    
+   
+    
+     
+    
+     
+   
+ 
+         
+     
+                 
+ 
+              
+  
+      
+ 
+            
+   
+   • 
+• bu is finally confirmed. what is involved varies depending on the course on which you’ve been 
+offered a place .  within this part of the privacy notice there is one section which applies only to 
+people who wish to accept a place on a regulated professions course in the faculty of health & 
+social sciences, and a separate section which applies only to people who wis h to accept a place on 
+any other bu course . 
+aside from the processing described in this privacy notice, once you have accepted an offer from bu 
+we will begin to process your data in preparation for your arrival at bu and for a number of purposes which will continue through into your time as a student at bu. information about this processing is set out in our student privacy notice. at this stage you may want to look in particular at the sections 
+on accommodation, immigration, occupational health and criminal convictions/dbs checks. 
+• communications from bu (applies to anyone accepting an offer on any bu course) 
+after you have accepted a place at bu, we will continue to use the contact details provided 
+on your application to send you information related to your offer and your potential future 
+study at bu. 
+our admissions team will contact you as necessary for the conduct of the admissions 
+process. 
+we also like to send you additional communications to keep in touch and make sure you 
+have all the information you need to plan and prepare for your time at bu. with your 
+agreement we will send you regular communications for this purpose, which include information about important practical steps you need to take e.g. in relation to 
+accommodation, accessing support at bu and arranging financial support. however, you can 
+choose to opt out of receiving these communications which are not directly related to your offer and the admissions process (any applicant who previously opted out of these 
+additional communications will now start to receive them, unless they opt out again at this stage). 
+more information: the communications from our admissions team will include communications about 
+the post -offer clearance checks described below, reminders to provide further 
+information required e.g. to show you have met conditions on your offer and to let 
+you know of any changes to your course. these communications will usually be sent 
+by email, but on occasion we may need to telephone you or send you an sms 
+message. you cannot opt out of these communications as we need to be able to 
+contact you about your place. 
+necessary in order to take steps at your request prior to entering into a 
+contract, i.e. in order to apply our admissions process with a view to you 
+entering into our student agreement and enable you to access other 
+services 
+necessary for bu’s core public task as a university, operating an admissions 
+process to ensure that places on higher education courses are offered to the 
+most appropriate candidates 
+student recruitment & admissions privacy notice published september 20 24 
+25 
+  
+ 
+          
+          
+  
+ 
+ 
+   
+     
+        
+       
+     
+    
+     
+  
+     
+  
+  
+     
+        
+            
+     
+         
+         
+       
+         
+   
+ 
+        
+   
+          
+             
+ 
+     
+                 
+  
+       
+  
+      
+    
+      the additional communications we send you will include: information relevant to 
+you about life at bu, your bu course and your faculty; invitations to relevant events; 
+and information, links and reminders to help you take important practical steps in 
+preparation for your life at bu, including information about applying for bu 
+accommodation or finding other accommodation, arranging financial support, 
+registering with bu’s additional learning support service and accessing other bu 
+services and sources of suppo rt. email is our primary means of communicating with 
+you, but we may also contact you by phone, sms , or post. you can decide to opt out 
+of any one or more of these methods of communication by following links which will 
+be provided in your offer letter, clicking the “unsubscribe” button on any email you 
+receive from the address ezines@newsletters.bournemouth.ac.uk or by emailing our 
+future students enquiry t eam futurestudents@bournemouth.ac.uk . however, 
+opting out of emails may mean that you miss out important information: if you 
+decide to opt out, we suggest that you check our website regularly for relevant 
+information.  opting out of these additional communications will not affect our core 
+communications about your place at bu . 
+to minimise the chances of people missing out on important information, when you 
+accept an offer, you will start to receive these additional communications even if 
+you previously opted out of receiving them at the application stage. if you still do not want to receive these communications despite accepting an offer from bu, you 
+will need to opt out a gain now. 
+necessary for the legitimate interest of processing your application, 
+ensuring you have relevant information about your potential future study at 
+bu and ensuring you will be able to access relevant associated services. 
+consent: you have agreed to this processing (if you do not opt out). 
+• additional processing of information: if you’ve been offered a place on a “regulated 
+professions course” 
+this refers to certain health & social care courses within bu’s faculty of health & social sciences 
+which include mandatory work placements in the regulated professional environment and which are 
+listed in this guidance document. 
+• declaration of criminal records matters 
+when you accept an offer to study at bu we require you to declare and provide details 
+of any matters on your record which would be disclosed through an enhanced 
+disclosure & barring service check. we also require you to complete an enhanced dbs 
+check, either immediately after you have declared matters on your record or, if you did 
+not declare anything, before enrolment. we use this information to assess your 
+suitability for your chosen course/profession and your a bility to meet the course 
+requirements to complete work placements in the regulated professional environment. 
+student recruitment & admissions privacy notice published september 20 24 
+26 
+  
+ 
+          
+          
+             
+       
+  
+ 
+   
+         
+    
+      
+        
+       
+    
+   
+  
+      
+   
+   
+    
+             
+     
+     
+      
+ 
+    
+      
+       
+ 
+              
+  
+          
+   
+ 
+      
+      
+ 
+ 
+  
+           
+       bu uses a third- party organisation called atlantic data ltd to administer disclosure and 
+barring service (dbs) checks on our behalf. bu shares limited personal details with 
+atlantic data ltd as part of this process (title, forename, middle name, surname, g ender, 
+date of birth, email, student id). a copy of atlantic data ltd privacy statement is 
+available here : https://policydocuments.disclosures.co.uk/privacy_statement.pdf 
+if you have matters on your criminal record, these are not usually an automatic bar to 
+acceptance on to a regulated professions course, i.e. declaring a relevant criminal matter 
+does not necessarily mean that bu will refuse to offer you a place. however we must 
+consider your criminal record before confirming that you can start your course. this is 
+because a criminal record is relevant to whether you will be able to meet professional 
+body requirements for entry to the profession and because the mandatory elements of 
+these courses include work placements where you will be performing “regulated 
+activity” in contact with vulnerable people. our process for considering this information 
+is set out in our policy 3e (admissions policy for applicants with a crimin al record) [ see 
+also this guidance document ].  
+as for all other offer -holders, if a matter on your criminal record is a “relevant 
+conviction” as defined in this guidance, we will carry out a wider risk assessment as 
+described in the section below. 
+more information: 
+we ask about spent convictions and other criminal matters in relation to regulated 
+professions courses because the purposes for which we use this information make 
+our question exempt from the rehabilitation of offenders act 1974. 
+information about your criminal record is only processed or shared within bu as 
+necessary to carry out the risk assessment processes as described in our policy 3e 
+(admissions policy for applicants with a criminal record) and to complete any risk 
+control actions identified in risk assessments. where that assessment is carried out 
+by a bu panel (disclosure panel or criminal conviction panel), information is given to 
+panels in anonymised (no -names) form. 
+where risk assessment results in a decision that we need to pass some information 
+about your record and our risk assessment in identifiable form to individuals within 
+bu or at third party organisations (e.g. accommodation provider), we will tell you 
+before this happens. 
+in relation to any application, you make for registration with a professional 
+regulatory body, bu may disclose (on request from the professional body) 
+information about whether you declared certain criminal records matters to us. 
+otherwise information about criminal records which is collected before you start 
+your course at bu will not be further processed or shared within bu unless this is 
+necessary to manage any issue which arises in connection with the accuracy of 
+student recruitment & admissions privacy notice published september 20 24 27 
+  
+ 
+         
+    
+ 
+             
+    
+      
+   
+            
+   
+      
+  
+                 
+      
+ 
+         
+   
+  
+ 
+ 
+         
+  
+ 
+         
+   
+  
+ 
+   
+  
+ 
+     
+   
+      
+      
+ 
+     
+       
+   
+ 
+     
+     
+ 
+      
+      previous declarations made to bu or in connection with any later 
+concerns/additional criminal matters arising in relation to a student. 
+necessary for the performance of a task carried out in the public interest: 
+this refers to the university’s role in supporting the regulation of health and 
+social care professions by assessing the suitability of applicants to courses 
+leading to those profe ssions, its task of providing education in accordance 
+with its own regulatory requirements and the wider duty of the university 
+and professional regulators to safeguard people within the university 
+environment and people in the health and social care work placement 
+environment. 
+we can only process this type of information where it falls into one or more of the 
+paragraphs in schedule 1 to the uk data protection act 2018. the relevant 
+paragraphs are: 
+•paragraph 6: necessary for the exercise of a function conferred by law: 
+this refers to the university’s need to comply with regulatory 
+requirements set by the office for students, in particular regulatory 
+conditions b1 and b2 
+•paragraph 18: necessary for the purposes of safeguarding, i.e. protecting 
+individuals from risks of neglect, harm or damage to well -being 
+•paragraph 11: necessary for the exercise of a function intended to 
+protect members of the public against seriously improper conduct, 
+unfitness etc. 
+• disabilities, h ealth conditions and learning support needs, including o ccupational 
+health checks 
+you can choose to give us information at any time about any health conditions, disabilities or 
+other support needs which need to be taken into account in respect of any aspect of your 
+course. we encourage applicants to discuss their support needs with us during the 
+admissions process and/or once you have accepted an offer. 
+in any event, where your course requires you to undertake work placements within health 
+and social care settings, before the start of the course you must undergo an occupational 
+health assessment to ensure you meet vaccination requirements, and to identify any risks or 
+issues which may affect your ability to complete the placement and any needs you have for 
+specific support in your placement, e.g. due to health conditions or disability. your personal 
+data will be shared with the university’s supplier of student occupational health services 
+(currently dorset healthcare university hospitals nhs foundation trust).  outcomes from 
+this assessment process will be shared with bu if they identify needs for support/ reasonable 
+adjustment to be put in place in the university and/or work place environment or if there is 
+student recruitment & admissions privacy notice published september 20 24 28 
+  
+ 
+           
+         
+   
+ 
+          
+     
+     
+ 
+   
+      
+ 
+      
+   
+ 
+       
+      
+    
+      
+ 
+ 
+          
+    
+ 
+       
+   
+      
+  
+ 
+           
+      
+        
+           
+    
+        
+    
+   
+             
+     
+         
+ concern about your ability to undertake the required work placements in the professional 
+environment. further information will be given to you when we make the referral to the 
+service. 
+where you provide relevant information to bu or it is disclosed through the occupational 
+health check process, we will collaborate with you and placement providers to address any 
+potential issues related to your ability to access and complete the course. 
+our approach includes: 
+1. identifying potential issues : we will work together to identify any challenges that might 
+impact your participation in the course. 
+2. implementing support and adjustments : where necessary, we will put in place 
+reasonable adjustments and support to assist you in both the bu and placement environments. 
+3. managing exceptional cases : in rare instances where a condition or disability may 
+prevent you from meeting the compulsory course requirements, even with all 
+reasonable adjustments, we will address these situations according to our 3d 
+admissions policy and procedure for applicants w ith a disability, medical condition, or 
+other support needs. 
+please note that if the required adjustments cannot be met, it may result in the withdrawal 
+of your place on the course. 
+this will usually involve sharing of some of your information with placement providers or 
+representatives of placement providers: we will keep you informed about this and only 
+share information as necessary for these purposes. 
+more information: within the occupational health services provider, data relating to 
+your health conditions or disabilities is processed only by healthcare professionals 
+who are subject to professional obligations of confidentiality. 
+necessary for performance of bu’s core public task, i.e. delivery of 
+higher education and research 
+necessary for healthcare purposes, including assessment of working 
+capacity, medical diagnosis, provision of treatment or the management of 
+healthcare arrangements. 
+necessary to protect your vital interests or those of another person, i.e. to 
+prevent or manage significant risks of harm 
+necessary for the purposes of substantial public interest: safeguarding 
+vulnerable people 
+student recruitment & admissions privacy notice published september 20 24 29 
+  
+ 
+                  
+   
+   
+       
+  
+ 
+        
+    
+        
+               
+      
+       
+  
+ 
+  
+ 
+    
+          
+   
+     
+    
+ 
+ 
+   
+ 
+   
+      
+         
+      
+       
+ 
+              
+  
+          
+   
+ 
+         
+           
+       
+   
+    
+ • additional processing of information: if you’ve been offered a place on a course which 
+is not a “regulated professions course ” 
+this section does not apply to anyone applying regulated professions courses within the 
+faculty of health & social sciences (as identified in the section above). 
+• information about relevant criminal convictions 
+everyone accepting an offer to study at bu is asked to tell us if they have certain relevant 
+unspent criminal convictions, as defined in our guidance. if you have a conviction of this 
+kind, we may ask you for more information about the offence and your current 
+circumstances. we process this information for risk assessment purposes, as set out in our 
+policy 3e: admissions policy for applicants with a criminal record. in addition, it may be 
+necessary for you to complete a disclosure & barring service (dbs ) check if you choose 
+certain placement options on your course (this applies to placements which involve working 
+in a regulated environment e.g. in a hospital or with children). more information about this 
+is set out in policy 3e and the student privacy no tice, and in this guidance document . 
+bu uses a third- party organisation called atlantic data ltd to administer disclosure and 
+barring service (dbs) checks on our behalf. if a dbs check is necessary bu will share limited 
+personal details with atlantic data ltd as part of this process (title, f orename, middle name, 
+surname, gender, date of birth, email, student id). a copy of atlantic data ltd privacy statement is available here : 
+https://policydocuments.disclosures.co.uk/privacy_statement.pdf 
+more information: 
+information about your criminal record is only processed or shared within bu as 
+necessary to carry out the risk assessment processes as described in our policy 3e : 
+admissions policy for ap plicants with a criminal record and to complete any risk 
+control actions identified in risk asses sments. where that assessment is carried out 
+by a bu panel (disclosure panel or criminal conviction panel), information is given to 
+panels in anonymised (no -names) form. 
+where risk assessment results in a decision that we need to pass some information about your record and our risk assessment in identifiable form to individuals within 
+bu or at third party organisations (e.g. accommodation provider), we will tell you 
+before this happens. 
+otherwise information about criminal records which is collected before you start 
+your course at bu will not be further processed or shared within bu unless this is 
+necessary to manage any issue which arises in connection with the accuracy of 
+previous decla rations made to bu or in connection with any later 
+concerns/additional criminal matters arising in relation to a student. 
+student recruitment & admissions privacy notice published september 20 24 
+30 
+  
+ 
+                   
+    
+ 
+     
+                 
+      
+ 
+    
+  
+ 
+  
+ 
+    
+ 
+             
+  
+  
+ 
+           
+             
+     
+     
+   
+                 
+              
+    
+    
+                
+       
+      
+ 
+   
+ 
+            
+ 
+     
+          
+    
+  
+     
+   necessary for the performance of a task carried out in the public interest: 
+this refers to the university’s task of providing education in accordance with 
+its own regulatory requirements and the wider duty of the university to 
+safeguard people within the u niversity environment. 
+we can only process this type of information where it falls into one or more of the paragraphs in schedule 1 to the uk data protection act 2018. the relevant 
+paragraphs are: 
+•condition 10: necessary for the purposes of prevention or detection of 
+unlawful acts 
+•condition 18: safeguarding, as above 
+• disabilities, health conditions and learning support needs 
+when you accept our offer of a place we ask you to share information about any disabilities, 
+health conditions, impairments (physical, mental, psychological or learning -based) or other 
+needs you have which: 
+o may affect your ability to access your course at bu 
+o may affect your ability to access other aspects of life at bu 
+o could result in you experiencing a medical emergency while at bu 
+o mean that you need extra support, either generally or in relation to 
+specific aspects of your studies or life at bu 
+we will use this information to work with you to ensure that we identify any potential issues 
+with your ability to access and undertake the course (including exams or assessments), to 
+put reasonable adjustments and support in place where required and to as sess and manage 
+any potential health and safety risks to you and others. 
+we will ask you for this information at this stage regardless of whether you have previously 
+declared a disability during the admissions process. any information provided previously 
+during the admissions process is not sufficient for the purposes outlined above. 
+more information: 
+consent: this means that you have agreed that we can use your data for this 
+specific purpose 
+some of our courses include mandatory requirements for students to work in 
+environments which could affect health and safety, or which require certain physical 
+capabilities, such as workshops, laboratories or outside environments. this will be 
+stated in the course information on the bu website.  where you are accepting a 
+place on one of these courses and you have a disability, health condition or 
+impairment which could affect your ability to carry out the required course activities 
+student recruitment & admissions privacy notice published september 20 24 31 
+  
+ 
+       
+                 
+      
+        
+  
+       
+    
+     
+       
+      
+            
+                 
+   
+   
+  
+  
+ 
+  
+    
+  
+    
+  
+ 
+    
+ 
+   
+      
+   
+ 
+      
+ 
+      
+        
+ 
+                
+       
+              
+   
+   
+      
+ fully and safely, we have to ask you to share this information with us so that we can 
+make sure that you and others will be safe and that you are able to complete the 
+mandatory requirements of the course. 
+otherwise you do not have to provide us with this information about health 
+conditions, disabilities or support needs at this stage , and there is no deadline for 
+notifying us of support and adjustment needs. however we encourage you to share 
+information at this stage, so that we can identify any significant access 
+considerations as soon as possible, and have the best chance of putting any 
+appropriate support and adjustments in place fo r the start of your time at bu. it can 
+take time to assess needs and put support in place. we can only start to do this 
+where you have given us the relevant information. any information that you provide 
+will be used for the following purposes to the extent that they are relevant to you: 
+o to enable us to work with you to establish needs for adjustments or 
+support to be put in place: this could mean ensuring that you have 
+access to equipment required to manage a learning support need, 
+adjusting examination arrangements e.g. to give you extra time, 
+arranging for your classes to be delivered in a location that is physically 
+accessible to you or making arrangements for course content/materials 
+to be avail able in accessible formats; 
+o to identify, assess and manage any health and safety risks: for example, 
+if your course requires you to undertake activities in a workshop , lab or 
+outdoor environment and you have a condition which could affect your safety or that of others in this environment; 
+o to enable people around you to respond promptly and appropriately to 
+a medical emergency which may arise from a known condition while 
+you’re at bu (e.g. seizures, loss of consciousness or allergic reactions); 
+o to identify and manage the small number of cases in which your 
+condition or disability may affect your ability to complete compulsory 
+course requirements even if all reasonable adjustments are put in place. 
+these situations arise very rarely and are consid ered under section 12 of 
+our admissions policy 3b (taught programmes)). 
+we will review any information you provide, tell you which (if any) of these purposes we 
+think may be relevant to you and give you information about our proposed next steps. we 
+will need to work together with you to understand any conditions or disabiliti es you have 
+and their impact, so you will always be involved in these processes and kept informed about how we plan to process your information. 
+5. overseas t ransfers of your personal data 
+student recruitment & admissions privacy notice published september 20 24 32 
+  
+ 
+                 
+               
+           
+             
+             
+               
+            
+        
+ 
+                
+  
+ 
+                 
+             
+          
+            
+           
+             
+ 
+              
+             
+            
+            
+          
+    
+ 
+    
+ 
+        
+            
+         
+ 
+   
+                 
+     
+   
+        data protection laws limit our ability to transfer personal data outside the countries within 
+the uk and countries, such as the those within the european economic area, which are subject to an adequacy decision (restricted transfers) (i.e. the countries which are subject 
+to the same or very similar data protection laws). this is to help ensure that a consistent 
+level of data protection applies to your data at all stages of processing, and that you are not exposed to additional privacy risks through the transfer of your data. restricted transfers are only permitted in certain circumstances. where such restricted transfers are necessary, we ensure that we have appropriate safeguards in place. 
+there may be a restricted transfer of your personal data outside the uk in the following 
+circumstances: 
+• where we use a cloud-based it system to hold your data, and the data in the cloud is stored on servers located outside the uk in a country which is not subject to an adequacy decision. in these circumstances we safeguard your data through 
+undertaking appropriate checks on the levels of security offered by the cloud 
+provider and entering into a contract with them which applies protections of the same type and level required by data protection laws within the uk; 
+• where you are based outside the uk in a country which is not subject to an adequacy decision, and we need to send you emails or other communications which are necessary for the performance of our contract with you or for implementing pre -
+contractual measures which you have asked us to take (e.g. processing your application or enquiry). in these circumstances the data protection laws say that transfer is permitted; or 
+• with your consent. 
+6. retention: how long will we keep your data for? 
+we ha ve given information in section 4 about the length of time for which we will keep your 
+personal data in connection with some categories of processing/data. bu is undertaking a review of 
+its retention policies and future versions of this notice will contain more specific references to 
+retention period s for different categories of data or links to relevant retention schedules . 
+in general, we will aim to retain your personal data only as long as necessary for the purposes of the 
+processing which are explained above, and any secondary purposes such as audit, regulatory and 
+legal record -keeping requirements. 
+7. your rights as a data subject and how to exercise them 
+student recruitment & admissions privacy notice published september 20 24 33 
+  
+ 
+                     
+ 
+ 
+       
+ 
+ 
+     
+ 
+        
+ 
+    
+ 
+     
+ 
+        
+       
+      
+ 
+                
+       
+ 
+  
+   
+   
+        
+ 
+             
+        
+ 
+ 
+                  
+      
+   
+       
+ 
+ 
+   
+  
+    
+  under the data protection laws you have a number of rights in relation to our processing of your data.  
+in summary these are: 
+• right to request access to your data as processed by bu and information about that processing 
+[“subject access request”] 
+• right to rectify any inaccuracies in your data 
+• right to request erasure of your data from our systems and files 
+• right to place restrictions on our processing of your data 
+• right to object to our processing of your data 
+• right to data portability: where we are processing data that you have provided to us, on the 
+basis of consent or as necessary for the performance of a contract between us, you have the 
+right to ask us to provide your data in an appropriate format to you or to another controller . 
+most of these rights are subject to some exceptions or exemptions, depending on the purposes for 
+which data is being processed. 
+if you have any questions or concerns about our processing of your data, please contact the bu data 
+protection officer (dpo): 
+email: dpo@bournemouth.ac.uk 
+telephone: 01202 962472 address: poole house, bournemouth university, fern barrow, 
+poole bh12 5bb 
+if you would like to exercise any of your rights as outlined above, you can contact the dpo as above 
+or visit the data protection page on our website for more information and to access the subject access 
+request form. 
+we will always aim to respond clearly and fully to any concerns you have about our processing and requests to exercise the rights set out above. however, as a data subject if you have concerns about 
+our data processing or consider that we have failed to comply with the data protection legislation then 
+you have the right to lodge a complaint with the data protection regulator, the information 
+commissioner: 
+online reporting: https://ico.org.uk/concerns/ 
+email: casework@ico.org.uk 
+tel: 0303 123 1113 
+post: 
+student recruitment & admissions privacy notice published september 20 24 
+34 
+  
+ 
+       
+  
+  
+ 
+  information commissioner’s office 
+wycliffe house water lane 
+wilmslow cheshire sk9 5af 
+student recruitment & admissions privacy notice published september 20 24 
+35 

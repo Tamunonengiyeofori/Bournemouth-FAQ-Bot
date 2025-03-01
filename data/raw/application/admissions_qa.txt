@@ -1,0 +1,35 @@
+question: what does this privacy notice pertain to?, answer: it pertains to student recruitment and admissions at bournemouth university (bu).
+
+question: what sections provide an outline of the processing activity and its legal basis?, answer: sections 4 and 5 provide this information.
+
+question: who has oversight over data protection matters within bu?, answer: bu's data protection officer (dpo) has oversight over data protection matters.
+
+question: how can you contact the dpo for queries related to the privacy notice?, answer: you can contact the dpo at dpo@bournemouth.ac.uk or at poole house, bournemouth university, fern barrow, poole bh12 5bb.
+
+question: when is the privacy notice reviewed and updated?, answer: it is reviewed and updated at the start of each academic year and application cycle.
+
+question: what should you do if you have changes to your data?, answer: you should promptly inform bu about any changes to the data they hold about you.
+
+question: what is the primary purpose of this notice?, answer: to enable individuals to understand how their personal data will be held and processed by bu.
+
+question: what is considered personal data?, answer: personal data is any information that identifies an individual living person, often referred to as "data" in the notice.
+
+question: what laws govern the use of personal data?, answer: the eu general data protection regulation (gdpr) and the uk data protection act 2018 govern the use of personal data.
+
+question: what must bu ensure regarding the data it processes?, answer: bu must ensure the data is accurate and up to date, provide clear information about its processing, and process data only for specific purposes described in privacy notices.
+
+question: what methods are used to collect personal data at bu?, answer: personal data is collected through enquiry forms, email communications, telephone calls, live chat messages, event booking forms, event evaluation forms, application forms, and responses to specific requests during admissions.
+
+question: what is the purpose of the data collected through bu events?, answer: the data is used to process bookings, provide event information, and potentially to identify dietary or accessibility needs for attendees.
+
+question: what can you opt out of regarding images taken at bu events?, answer: you can opt out of having your image recorded and used for marketing purposes.
+
+question: how long does bu retain your data after you express interest in events?, answer: bu retains your data for a limited period not exceeding five years.
+
+question: what conditions must be met for bu to process your data during the admissions cycle?, answer: processing must meet specific legal conditions, such as necessity for contract performance, legal obligations, or legitimate interests.
+
+question: what happens if bu needs to process personal data outside the uk?, answer: bu ensures appropriate safeguards are in place when transferring data outside countries that do not have an adequacy decision regarding data protection.
+
+question: what rights do you have as a data subject regarding your personal data?, answer: you have the right to request access, rectify inaccuracies, request erasure, restrict processing, object to processing, and data portability.
+
+question: how can you lodge a complaint about bu's data processing?, answer: you can lodge a complaint with the information commissioner's office (ico) using their online reporting, email, or postal options.
